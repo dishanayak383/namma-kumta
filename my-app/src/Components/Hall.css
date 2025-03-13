@@ -333,7 +333,22 @@
     color: white;
     
 }
-
+.home {
+    margin-left: 180px;
+    font-size: 40px;
+    margin-top: 10px;
+}
+.h15 {
+    margin-left: 180px
+}    
+.search2 {
+    margin-left: 730px;
+    font-size: 40px;
+    margin-top: -70px;
+}
+.h16 {
+    margin-left: 730px;
+}
 
 
 
