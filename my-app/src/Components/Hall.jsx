@@ -127,6 +127,7 @@ const Hall =()=> {
                 <div className="search2"><IoSearchOutline /></div>
                 <div className="h16">Search</div>
                 <div className="add"><PiPlusCircle /></div>
+                <div className="h17">Add+join</div>
             </div>
         </div>
     );

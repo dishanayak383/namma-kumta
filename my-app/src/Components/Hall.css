@@ -201,7 +201,7 @@
 .h8 {
     margin-top: -30px;
     font-size: 20px;
-    margin-left: 20px;
+    margin-left: 10px;
     color: white;
 }
 .boxes9 {
@@ -318,7 +318,7 @@
     width: 80px;
     height: 80px;
     border: 1px solid black;
-    margin-left: 45px;
+    margin-left: 35px;
     margin-top: 50px;
     border-radius: 40px;
     align-items: center;
@@ -349,6 +349,15 @@
 .h16 {
     margin-left: 730px;
 }
+.add {
+    margin-left: 1300px;
+    font-size: 40px;
+    margin-top: -70px;
+}
+.h17 {
+    margin-left: 1290px;
+}
+
 
 
 
