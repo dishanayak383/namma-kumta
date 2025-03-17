@@ -30,9 +30,9 @@ const Hall =()=> {
                 </div>
                 <div className="boxes1">
                     <div className="image1">
-                        <img src="https://pics.craiyon.com/2024-09-06/QDWqBYpMTZ-vJVFdzuN7GA.webp"/> 
+                        <img src="https://pics.craiyon.com/2024-09-06/QDWqBYpMTZ-vJVFdzuN7GA.webp"/></div> 
                         <div className="h1">Hospital</div>           
-                    </div>
+                    
                 </div>
                 <div className="boxes2">
                     <div className="image2">
