@@ -8,7 +8,7 @@ import { IoMicOutline } from "react-icons/io5";
 import { PiDotsThree } from "react-icons/pi";
 import { FiHome } from "react-icons/fi";
 import { PiPlusCircle } from "react-icons/pi";
-
+import { AiOutlineBulb } from "react-icons/ai";
 
 const Hall =()=> {
     return (
@@ -128,6 +128,8 @@ const Hall =()=> {
                 <div className="h16">Search</div>
                 <div className="add"><PiPlusCircle /></div>
                 <div className="h17">Add+join</div>
+                <div className="alert"><AiOutlineBulb /></div>
+                <div className="h18">Alerts</div>
             </div>
         </div>
     );

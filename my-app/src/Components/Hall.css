@@ -3,26 +3,27 @@
     height: 100vh;
     max-width: 2000px;
     height: 1000px;
-    border: 1px solid black;
+    border: 1px solid white;
 }
 .box1 {
     width: 100%;
     max-width: 1800;
     height: 100px;
-    border: 1px solid black;
+    border: 1px solid gray;
+    
 }
 .box2 {
     width: 100%;
     max-width: 2000px;
     height: 800px;
-    border: 1px solid black;
+    border: 1px solid white;
     
 }
 .box3 {
     width: 100%;
     max-width: 2000px;
     height: 95px;
-    border: 1px solid black;
+    border: 1px solid white;
 }
 .image img{
     width: 100px;
@@ -339,7 +340,9 @@
     margin-top: 10px;
 }
 .h15 {
-    margin-left: 180px
+    margin-left: 180px;
+    font-size: 20px;
+    
 }    
 .search2 {
     margin-left: 730px;
@@ -348,6 +351,7 @@
 }
 .h16 {
     margin-left: 730px;
+    font-size: 20px;
 }
 .add {
     margin-left: 1300px;
@@ -356,6 +360,16 @@
 }
 .h17 {
     margin-left: 1290px;
+    font-size: 20px;
+}
+.alert {
+    margin-left: 1800px;
+    font-size: 40px;
+    margin-top: -70px;
+}
+.h18 {
+    margin-left: 1800px;
+    font-size: 20px;
 }
 
 
